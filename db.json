@@ -1,4 +1,4 @@
-[
+{"posts" :[
 	{
 		"name": "Kiona Sears",
 		"text": "Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam erat"
@@ -100,3 +100,4 @@
 		"text": "dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl."
 	}
 ]
+}
